@@ -754,3 +754,16 @@ personal-finance-system/
 - Definição de requisitos funcionais e não-funcionais
 - Definição de casos de uso
 - Definição de arquitetura
+
+##### Fase 1 — Planejamento ✅ (Concluída)
+* [x] Definir requisitos funcionais
+* [x] Definir requisitos não-funcionais
+* [x] Estruturar casos de uso
+* [x] Planejar arquitetura
+* [x] Definir sistema de auditoria
+
+##### Fase 2 — Setup ✅ (Concluída)
+* [x] Criar repositório GitHub
+* [x] Criar ambiente virtual Python
+* [x] Instalar dependências
+* [x] Estruturar pastas do projeto
