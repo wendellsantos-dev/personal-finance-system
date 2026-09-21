@@ -772,4 +772,4 @@ personal-finance-system/
 * [x] Configurar SQLAlchemy e SQLite
 * [x] Criar modelo de dados do Usuário (User)
 * [x] Criar modelo de dados de Transações (Transaction)
-* [ ] Criar scripts de inicialização do banco
+* [x] Criar scripts de inicialização do banco
