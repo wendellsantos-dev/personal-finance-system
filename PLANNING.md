@@ -767,3 +767,9 @@ personal-finance-system/
 * [x] Criar ambiente virtual Python
 * [x] Instalar dependências
 * [x] Estruturar pastas do projeto
+
+##### Fase 3 — Banco de Dados 🔄 (Em Andamento)
+* [x] Configurar SQLAlchemy e SQLite
+* [x] Criar modelo de dados do Usuário (User)
+* [ ] Criar modelo de dados de Transações (Transaction)
+* [ ] Criar scripts de inicialização do banco
