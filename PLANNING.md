@@ -771,5 +771,5 @@ personal-finance-system/
 ##### Fase 3 — Banco de Dados 🔄 (Em Andamento)
 * [x] Configurar SQLAlchemy e SQLite
 * [x] Criar modelo de dados do Usuário (User)
-* [ ] Criar modelo de dados de Transações (Transaction)
+* [x] Criar modelo de dados de Transações (Transaction)
 * [ ] Criar scripts de inicialização do banco
