@@ -1,0 +1,18 @@
+:root {
+    /* Cores Principais e de Marca */
+    --cor-primaria: #0284C7;          /* Azul Oceano Vibrante (Botões e destaques) */
+    --cor-primaria-hover: #0369A1;    /* Azul Oceano Escuro (Efeito ao passar o mouse) */
+    
+    /* Superfícies e Fundos */
+    --cor-fundo-pagina: #F0F9FF;      /* Azul Gelado Muito Claro (Fundo suave da tela) */
+    --cor-fundo-cartao: #FFFFFF;      /* Branco Puro (Cartões de formulário e containers) */
+    --cor-borda: #BAE6FD;             /* Azul Suave (Bordas de campos e separadores) */
+    
+    /* Tipografia e Textos */
+    --cor-texto-titulo: #0369A1;      /* Azul Oceano Escuro (Títulos da marca) */
+    --cor-texto-principal: #1E293B;   /* Cinza Grafite (Rótulos e textos de leitura) */
+    --cor-texto-placeholder: #6B7280; /* Cinza Médio (Textos auxiliares de instrução) */
+    
+    /* Status e Alertas */
+    --cor-erro: #EF4444;              /* Vermelho Alerta (Validações e falhas) */
+}

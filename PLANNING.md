@@ -768,8 +768,14 @@ personal-finance-system/
 * [x] Instalar dependências
 * [x] Estruturar pastas do projeto
 
-##### Fase 3 — Banco de Dados 🔄 (Em Andamento)
+##### Fase 3 — Banco de Dados ✅ (Concluída)
 * [x] Configurar SQLAlchemy e SQLite
 * [x] Criar modelo de dados do Usuário (User)
 * [x] Criar modelo de dados de Transações (Transaction)
 * [x] Criar scripts de inicialização do banco
+
+##### Fase 4 - Interface & Autenticação🔄 (Em Andamento)
+- [x] Protótipo de Média/Alta Fidelidade (Login e Cadastro) no Figma
+- [x] Definição do Design System Base e Paleta de Cores Acessível (W3C/WCAG - Azul Finanças)
+- [ ] Criação das folhas de estilo `style.css` e variáveis no `:root`
+- [ ] Implementação das telas HTML (`login.html` e `cadastro.html`)
