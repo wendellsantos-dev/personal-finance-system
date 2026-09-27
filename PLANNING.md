@@ -774,8 +774,10 @@ personal-finance-system/
 * [x] Criar modelo de dados de Transações (Transaction)
 * [x] Criar scripts de inicialização do banco
 
-##### Fase 4 - Interface & Autenticação🔄 (Em Andamento)
-- [x] Protótipo de Média/Alta Fidelidade (Login e Cadastro) no Figma
-- [x] Definição do Design System Base e Paleta de Cores Acessível (W3C/WCAG - Azul Finanças)
-- [ ] Criação das folhas de estilo `style.css` e variáveis no `:root`
-- [ ] Implementação das telas HTML (`login.html` e `cadastro.html`)
+##### Fase 4 - Interface & Autenticação 🔄 (Em Andamento)
+- [x] Protótipos de Alta Fidelidade no Canva (Landing Page, Login, Cadastro, Dashboard, Transações)
+- [x] Definição da Paleta de Cores Acessível (#0A2540 Azul Cofre / #0284C7 Azul Vibrante)
+- [x] Mapeamento do Fluxo de Navegação do Usuário (User Flow / Workflow)
+- [ ] Criação do arquivo de estilos `app/static/css/style.css` e variáveis no `:root`
+- [ ] Estruturação do template HTML base (`app/templates/base.html`)
+- [ ] Implementação das telas HTML (`index.html`, `login.html`, `cadastro.html`, `dashboard.html`, `transacoes.html`)
